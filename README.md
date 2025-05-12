@@ -4,22 +4,24 @@ Este repositorio contiene las newsletters semanales creadas para **SpainHabitat*
 
 Cada carpeta incluye los siguientes elementos:
 - `images/`: Carpeta con las imágenes usadas en la newsletter
-- `contenido.txt`: Texto plano de la newsletter
-- `newsletter.html`: Archivo HTML de la newsletter
+- `texto/`: Carpeta con archivos de texto plano (títulos, descripciones, etc.)
+- `news_spain.html`: HTML para pruebas locales
+- `news_spain_emailagent.html`: HTML final con enlaces a imágenes externas para campañas
+- Otros archivos auxiliares según necesidad
 
 ---
 
-## 🗂️ Estructura del repositorio
+## 📁 Estructura del repositorio
 
-├── news_semanal_{fecha}/
-│ ├── images/
-│ │ └── ... (imágenes usadas en la newsletter)
-│ ├── texto/ 
-│ │ └── ... (títulos y descripción noticias)
-│ ├── news_spain.html (html para pruebas locales)
-│ └── news_spain_emailagent.html (html utilizado para la campaña, con src de imágenes de emailagent)
-│
-└── README.md
+```plaintext
+news_semanal_[fecha]/
+├── images/
+│   └── ... (imágenes usadas en la newsletter)
+├── texto/
+│   └── ... (títulos y descripción de noticias)
+├── news_spain.html              (HTML para pruebas locales)
+├── news_spain_emailagent.html  (HTML final para campaña con imágenes externas)
+```
 
 ## 🔒 Privacidad
 

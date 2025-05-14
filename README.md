@@ -28,3 +28,13 @@ news_semanal_[fecha]/
 Este repositorio es **privado** y destinado únicamente al equipo de contenido y comunicación de **SpainHabitat**.
 
 ---
+
+## Autor
+
+Gómez Lorente, Eduardo
+
+---
+
+## Copyright
+
+©️ All Rights Reserved

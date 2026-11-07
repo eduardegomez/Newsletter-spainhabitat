@@ -1,0 +1,4 @@
+interface:
+  display_name: "Newsletter Spainhábitat"
+  short_description: "Crea la edición semanal desde Word y URLs de imágenes"
+  default_prompt: "Usa $newsletter-spainhabitat con este Word: crea la carpeta de edición, reutiliza el HTML de la newsletter más reciente y pídeme las URLs de imágenes y de los banners que indique cambiar."

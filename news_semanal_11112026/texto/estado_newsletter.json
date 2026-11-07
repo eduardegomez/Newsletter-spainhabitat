@@ -1,0 +1,117 @@
+{
+  "fuentes": {
+    "word": "news_semanal_11112026\\texto\\newsletter 10-11.docx",
+    "plantilla_sha256": "60e2047e7791b711f1616522ce1cdfb4306b3336bd7d4cc57555ff7418af9f35",
+    "html_sha256": "2c33b44e4345383af31d3747e029721183e4a91a48c1dbfeaa0f8005153b58eb"
+  },
+  "asunto": "Noticias Spain Habitat: Espacio Asemad en Maderalia, Premios interCIDEC, Tendencias en oficinas y más…",
+  "noticias": [
+    {
+      "numero": 1,
+      "categoria": "Ferias",
+      "titulo": "Las empresas de Asemad refuerzan su presencia en Maderalia",
+      "descripcion": "La participación agrupada de Asemad es uno de los espacios destacados de la feria, en el N3 P4 de Feria Valencia.",
+      "cta": "Saber más",
+      "url_destino": "https://www.spainhabitat.es/la-participacion-agrupada-en-maderalia-despierta-alto-interes/",
+      "imagen_local": "images/foto-1.jpg",
+      "url_wordpress": "https://www.spainhabitat.es/spainhabitat/wp-content/uploads/2026/11/foto-1-1.jpg",
+      "verificacion_imagen": {
+        "estado_http": 200,
+        "tipo": "image/jpeg"
+      }
+    },
+    {
+      "numero": 2,
+      "categoria": "Premios",
+      "titulo": "Un habitación compartida gana el Premio InterCIDEC 2026",
+      "descripcion": "El proyecto ganador se llama “Habitación compartida” y es obra de los peruanos Isabella Abusada y Esteban Murdoch, del estudio Taller A2M Arquitectura de Lima (Perú).",
+      "cta": "Quiero verlo",
+      "url_destino": "https://www.spainhabitat.es/un-habitacion-compartida-gana-el-premio-intercidec-2026/",
+      "imagen_local": "images/foto-2.jpg",
+      "url_wordpress": "https://www.spainhabitat.es/spainhabitat/wp-content/uploads/2026/11/foto-2-1.jpg",
+      "verificacion_imagen": {
+        "estado_http": 200,
+        "tipo": "image/jpeg"
+      }
+    },
+    {
+      "numero": 3,
+      "categoria": "Jornada",
+      "titulo": "CIR4FUN aborda el pasaporte digital del mueble en Maderalia",
+      "descripcion": "La feria Maderalia acoge el 13 de noviembre una jornada profesional dedicada al ecodiseño y al Pasaporte Digital de Producto (DPP) en la industria del mobiliario.",
+      "cta": "Infórmate",
+      "url_destino": "https://www.spainhabitat.es/cir4fun-aborda-el-pasaporte-digital-del-mueble-en-maderalia/",
+      "imagen_local": "images/foto-3.jpg",
+      "url_wordpress": "https://www.spainhabitat.es/spainhabitat/wp-content/uploads/2026/11/foto-3-1.jpg",
+      "verificacion_imagen": {
+        "estado_http": 200,
+        "tipo": "image/jpeg"
+      }
+    },
+    {
+      "numero": 4,
+      "categoria": "Ferias",
+      "titulo": "La oficina flexible marcó tendencia en Orgatec",
+      "descripcion": "Sistemas modulares, soluciones acústicas para crear espacios independientes, mobiliario ergonómico y zonas de encuentro informal protagonizan los nuevos espacios de trabajo.",
+      "cta": "Saber más",
+      "url_destino": "https://www.spainhabitat.es/la-oficina-flexible-marca-tendencia-en-orgatec-2026/",
+      "imagen_local": "images/foto-4.jpg",
+      "url_wordpress": "https://www.spainhabitat.es/spainhabitat/wp-content/uploads/2026/11/foto-4-1.jpg",
+      "verificacion_imagen": {
+        "estado_http": 200,
+        "tipo": "image/jpeg"
+      }
+    },
+    {
+      "numero": 5,
+      "categoria": "Empresa",
+      "titulo": "Aidimme y Fevama lideran un clúster innovador de la madera y mueble en la CV",
+      "descripcion": "La Agrupación Empresarial de la Madera y el Mueble de la Comunidad Valenciana es un clúster de innovación reconocido en el Registro Especial de Agrupaciones Empresariales Innovadoras por el Ministerio de Industria, Turismo y Comercio desde 2008.",
+      "cta": "Más info",
+      "url_destino": "https://www.spainhabitat.es/aidimme-y-fevama-lideran-un-cluster-innovador-de-la-madera-y-mueble-en-la-cv/",
+      "imagen_local": "images/foto-5.jpg",
+      "url_wordpress": "https://www.spainhabitat.es/spainhabitat/wp-content/uploads/2026/11/foto-5-1.jpg",
+      "verificacion_imagen": {
+        "estado_http": 200,
+        "tipo": "image/jpeg"
+      }
+    },
+    {
+      "numero": 6,
+      "categoria": "Jornada",
+      "titulo": "La madera transparente protagoniza una jornada en el Parque Tecnológico",
+      "descripcion": "El próximo 20 de noviembre, AIMPLAS celebra en sus instalaciones de Paterna (Valencia) un workshop internacional del proyecto europeo AI-TRANSP WOOD, centrado en la madera transparente.",
+      "cta": "Leer más",
+      "url_destino": "https://www.spainhabitat.es/la-madera-transparente-protagoniza-una-jornada-en-el-parque-tecnologico/",
+      "imagen_local": "images/foto-6.jpg",
+      "url_wordpress": "https://www.spainhabitat.es/spainhabitat/wp-content/uploads/2026/11/foto-6-1.jpg",
+      "verificacion_imagen": {
+        "estado_http": 200,
+        "tipo": "image/jpeg"
+      }
+    },
+    {
+      "numero": 7,
+      "categoria": "Producto",
+      "titulo": "Vefer impulsa espumas de poliuretano con materiales renovables y reciclados",
+      "descripcion": "La empresa desarrolla espumas de poliuretano sostenibles mediante la combinación de investigación, calidad y tecnología.",
+      "cta": "Quiero verlo",
+      "url_destino": "https://www.spainhabitat.es/vefer-impulsa-las-espumas-de-poliuretano-sostenibles-con-materiales-renovables-y-reciclados/",
+      "imagen_local": "images/foto-7.jpg",
+      "url_wordpress": "https://www.spainhabitat.es/spainhabitat/wp-content/uploads/2026/11/foto-7-1.jpg",
+      "verificacion_imagen": {
+        "estado_http": 200,
+        "tipo": "image/jpeg"
+      }
+    }
+  ],
+  "incidencias": [
+    "Se conservó literalmente Un habitación compartida del Word.",
+    "El banner superior SCM conserva su enlace heredado a Orgatec.",
+    "Se usaron las URLs visibles; algunos hipervínculos internos del Word remiten a contenido anterior."
+  ],
+  "pendientes": [
+    "Revisión visual no realizada: el navegador bloquea la apertura de archivos locales.",
+    "Prueba de campaña en Brevo no realizada."
+  ]
+}
